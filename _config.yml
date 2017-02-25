@@ -91,7 +91,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://es.stackoverflow.com/users/14977/david-zambrano
-   flairimageurl: http://stackoverflow.com/users/flair/14977.png
+   flairimageurl: https://www.linkedin.com/mpr/mpr/AAEAAQAAAAAAAAigAAAAJGU0OGJhMTMyLTk0MjUtNDhjYi05ODdkLTgyZjQ4ZWE3ZjVjZg.jpg
 
 #Mobile apps section is optional
 apps:
