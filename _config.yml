@@ -14,7 +14,7 @@ primarylinks:
  - title: GitHub
    url: https://github.com/davazamb
  - title: StackOverflow
-   url: http://stackoverflow.com/
+   url: http://es.stackoverflow.com/users/14977/david-zambrano
  - title: DZone
    url: https://dzone.com/
  - title: LinkedIn
@@ -90,8 +90,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://es.stackoverflow.com/users/14977/david-zambrano
+   flairimageurl: http://stackoverflow.com/users/flair/14977.png
 
 #Mobile apps section is optional
 apps:
